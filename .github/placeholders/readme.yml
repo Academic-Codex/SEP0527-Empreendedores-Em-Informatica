@@ -1,0 +1,12 @@
+REPO_TAGLINE: Entrepreneurship • Product's Development • Technology innovation
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: coding
+SITE_URL: https://academic-codex.github.io/SEP0527-Empreendedores-Em-Informatica
+
+BG_1: "#0F172A"
+BG_2: "#1E293B"
+TEXT_MAIN: "#E5E7EB"
+TEXT_MUTED: "#94A3B8"
+ACCENT: "#22D3EE"
+CARD_RADIUS: "18"
