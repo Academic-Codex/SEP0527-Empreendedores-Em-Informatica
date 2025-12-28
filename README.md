@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://academic-codex.github.io/SSC0570-Empreendedores-Em-Informatica">
-    <img src=".github/readme/hero.svg?v=2025-12-28T18:33:49.738448Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2025-12-28T18:35:04.208713Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
